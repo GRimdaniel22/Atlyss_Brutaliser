@@ -1,6 +1,6 @@
 # Atlyss_Brutaliser
 This tool is for removing unneeded files from an Atlyss mod directory specifically for dedicated server hosting. 
-The files removed includes textures, meshes, lua files, and files left over from modders that are not actually used, and more.
+The files removed includes textures, meshes, lua files, files left over from modders that are not actually used, and more.
 
 ### How to use:
 Place Brutaliser.bat into your BepInEx folder next to your plugins folder (...\profiles\PROFILENAME\BepInEx)
