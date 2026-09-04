@@ -28,7 +28,7 @@ cd /d %~dp0\plugins
 			IF /I "%%~nxd"=="Eyes" rd /S /Q "%%~fd"
 			IF /I "%%~nxd"=="Mouth" rd /S /Q "%%~fd"
 		)
-		del /S /Q *.png, *.lua, *.propbundle
+		del /S /Q *.png, *.lua, *.propbundle, *.kra, *.png~
 		pause
 		exit /B
 	)
